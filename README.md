@@ -17,9 +17,7 @@ Hi, I'm Damika, an undergraduate student specializing in Artificial Intelligence
 
 </div>
 
-<div align="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=udanthaaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=udanthaaa&icon=0&color=0)](https://visitcount.itsvg.in)
