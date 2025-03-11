@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Damika Saputhanthri</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&lines=Hi+I'm+Damika+Saputhanthri;Hi+I'm+an+AI+Engineer" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A passionate AI engineer from Sri Lanka</h3>
 
 # 💫 About Me:
