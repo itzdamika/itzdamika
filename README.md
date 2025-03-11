@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&lines=Hi+I'm+Damika+Saputhanthri;A+passionate+AI+Engineer+from+Sri+Lanka" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">A passionate AI engineer from Sri Lanka</h3>
-
 # 💫 About Me:
 An undergraduate student specializing in Artificial Intelligence and Data Science at the Informatics Institute of Technology, affiliated with Robert Gordon University. I'm passionate about leveraging AI to solve real-world problems and currently exploring various technologies such as machine learning, computer vision, and chatbot development. Feel free to check out my projects and let's connect!
 
