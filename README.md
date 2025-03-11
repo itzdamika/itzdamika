@@ -1,20 +1,8 @@
 <h1 align="center">Hi 👋, I'm Damika Saputhanthri</h1>
 <h3 align="center">A passionate AI engineer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=udanthaaa&label=Profile%20views&color=0e75b6&style=flat" alt="udanthaaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udanthaaa" alt="udanthaaa" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udanthaaa&show_icons=true&locale=en" alt="udanthaaa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udanthaaa&" alt="udanthaaa" /></p>
-
 # 💫 About Me:
-Hi, I'm Damika, an undergraduate student specializing in Artificial Intelligence and Data Science at the Informatics Institute of Technology, affiliated with Robert Gordon University. I'm passionate about leveraging AI to solve real-world problems and currently exploring various technologies such as machine learning, computer vision, and chatbot development. Feel free to check out my projects and let's connect!
+An undergraduate student specializing in Artificial Intelligence and Data Science at the Informatics Institute of Technology, affiliated with Robert Gordon University. I'm passionate about leveraging AI to solve real-world problems and currently exploring various technologies such as machine learning, computer vision, and chatbot development. Feel free to check out my projects and let's connect!
 
 
 ## 🌐 Socials:
