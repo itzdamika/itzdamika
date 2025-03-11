@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&lines=Hi+I'm+Damika+Saputhanthri;Hi+I'm+an+AI+Engineer" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&lines=Hi+I'm+Damika+Saputhanthri;A+passionate+AI+Engineer+from+Sri+Lanka" alt="Typing SVG" />
+</h1>
 
 <h3 align="center">A passionate AI engineer from Sri Lanka</h3>
 
