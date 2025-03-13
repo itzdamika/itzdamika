@@ -32,5 +32,7 @@ An undergraduate student specializing in Artificial Intelligence and Data Scienc
   <img src="https://nirzak-streak-stats.vercel.app/?user=itzdamika&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>
 
+![snake gif](https://github.com/itzdamika/itzdamika/blob/output/github-snake-dark.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itzdamika&theme=radical&no-frame=false&no-bg=true&margin-w=4)
