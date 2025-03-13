@@ -2,7 +2,11 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=38&duration=3000&pause=500&color=F76060&center=true&width=800&lines=Hi%2C+I'm+Damika;A+passionate+AI+Engineer+from+Sri+Lanka)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=38&duration=3000&pause=500&color=F76060&width=800&lines=Hi%2C+I'm+Damika;A+passionate+AI+Engineer+from+Sri+Lanka)](https://git.io/typing-svg)
+
+</div>
 
 
 # 💫 About Me:
