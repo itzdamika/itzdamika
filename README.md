@@ -1,5 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <h1 align="center">
-  <img 
+  <img https://github.com/itzdamika
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&lines=Hi+I'm+Damika+Saputhanthri;A+passionate+AI+Engineer+from+Sri+Lanka" 
     alt="Typing SVG" 
   />
