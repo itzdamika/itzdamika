@@ -92,9 +92,6 @@ An undergraduate student specializing in Artificial Intelligence and Data Scienc
 
 ![snake gif](https://github.com/itzdamika/itzdamika/blob/output/github-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/itzdamika/itzdamika/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-
 </div>
 
 ## 🏆 GitHub Trophies
