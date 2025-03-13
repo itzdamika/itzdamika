@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=38&duration=3000&pause=500&color=F76060&width=800&lines=Hi%2C+I'm+Damika;A+passionate+AI+Engineer+from+Sri+Lanka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=38&duration=3000&pause=500&color=F76060&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Damika;A+passionate+AI+Engineer+from+Sri+Lanka)](https://git.io/typing-svg)
 
 </div>
 
