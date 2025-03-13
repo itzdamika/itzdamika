@@ -10,6 +10,8 @@ An undergraduate student specializing in Artificial Intelligence and Data Scienc
 
 
 ## 🌐 Socials:
+<div align="center">
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/49y8b2Du)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DamikaSaputhanthri)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/damika.u)
@@ -21,6 +23,8 @@ An undergraduate student specializing in Artificial Intelligence and Data Scienc
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/damikau)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DamikaSaputhan1)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:damikaudantha@gmail.com)
+
+</div>
 
 
 # 💻 Tech Stack:
