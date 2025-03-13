@@ -36,7 +36,9 @@ An undergraduate student specializing in Artificial Intelligence and Data Scienc
 </p>
 
 <div align="center">
+
 ![snake gif](https://github.com/itzdamika/itzdamika/blob/output/github-snake-dark.svg)
+
 </div>
 
 ## 🏆 GitHub Trophies
