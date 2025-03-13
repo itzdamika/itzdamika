@@ -2,12 +2,8 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">
-  <img https://github.com/itzdamika
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=800&lines=Hi+I'm+Damika+Saputhanthri;A+passionate+AI+Engineer+from+Sri+Lanka" 
-    alt="Typing SVG" 
-  />
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=38&duration=3000&pause=500&color=F76060&center=true&width=800&lines=Hi%2C+I'm+Damika;A+passionate+AI+Engineer+from+Sri+Lanka)](https://git.io/typing-svg)
+
 
 # 💫 About Me:
 An undergraduate student specializing in Artificial Intelligence and Data Science at the Informatics Institute of Technology, affiliated with Robert Gordon University. I'm passionate about leveraging AI to solve real-world problems and currently exploring various technologies such as machine learning, computer vision, and chatbot development. Feel free to check out my projects and let's connect!
