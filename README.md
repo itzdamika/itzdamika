@@ -99,4 +99,6 @@ An undergraduate student specializing in Artificial Intelligence and Data Scienc
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=itzdamika&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=itzdamika&theme=dark&radius=10" alt="itzdamika's Activity Graph" />
+</p>
