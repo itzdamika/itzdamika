@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="https://komarev.com/ghpvc/?username=itzdamika">
+    <img src="https://komarev.com/ghpvc/?username=itzdamika&label=Profile%20views&color=00FFFF&style=flat-square" alt="itzdamika's profile views" />
+  </a>
+</p>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
