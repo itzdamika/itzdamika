@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://komarev.com/ghpvc/?username=itzdamika">
-    <img src="https://komarev.com/ghpvc/?username=itzdamika&label=Profile%20views&color=00FFFF&style=flat-square" alt="itzdamika's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=itzdamika&label=Profile%20views&color=ff0000&style=flat-square" alt="itzdamika's profile views" />
   </a>
 </p>
 
