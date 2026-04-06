@@ -100,5 +100,5 @@ An undergraduate student specializing in Artificial Intelligence and Data Scienc
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=itzdamika&theme=dark&radius=10" alt="itzdamika's Activity Graph" />
+  <img src="https://trophy.ryglcloud.net/?username=itzdamika&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Damika Saputhanthri's GitHub Trophies" />
 </p>
