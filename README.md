@@ -16,8 +16,7 @@
 
 
 # 💫 About Me:
-An undergraduate student specializing in Artificial Intelligence and Data Science at the Informatics Institute of Technology, affiliated with Robert Gordon University. I'm passionate about leveraging AI to solve real-world problems and currently exploring various technologies such as machine learning, computer vision, and chatbot development. Feel free to check out my projects and let's connect!
-
+A graduate in Artificial Intelligence and Data Science from the Informatics Institute of Technology, affiliated with Robert Gordon University. I'm passionate about leveraging AI to solve real-world problems and enjoy working across technologies such as machine learning, computer vision, generative AI, and chatbot development. Feel free to explore my projects, and let's connect!
 
 ## 🌐 Socials:
 <div align="center">
